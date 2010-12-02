@@ -1,7 +1,7 @@
 <?php
 require_once 'config.php';
 
-$img = realpath("C:\\Users\\Joey\\Documents\\htdocs\\Vette10.jpg");
+$img = realpath("C:\\path\\to\\file.jpg");
 
 // allow uploads
 $facebook->setFileUploadSupport("http://" . $_SERVER['SERVER_NAME']);
