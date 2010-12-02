@@ -1,2 +1,3 @@
-Testing the readme.
-Another test
+Here are a few examples on using the Facebook Graph API with the PHP SDK. Download the files, edit the config.php file to enter your app id and secrete, then run the index.php page. For more information visit my blog post at: 
+
+http://www.joeyrivera.com/2010/facebook-graph-api-app-easy-w-php-sdk/
